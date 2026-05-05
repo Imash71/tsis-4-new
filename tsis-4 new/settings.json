@@ -1,0 +1,10 @@
+{
+  "sound": true,
+  "grid": false,
+  "speed": "normal",
+  "color": [
+    0,
+    255,
+    0
+  ]
+}
